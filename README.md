@@ -1,5 +1,5 @@
 # 吾爱破解自动签到Github Action 版
-
+1
 ## 今日签到状态
 ![52Pojie Auto Sign](https://github.com/RoadIsLong/52pojie_Sign/workflows/52Pojie%20Auto%20Sign/badge.svg)
 
